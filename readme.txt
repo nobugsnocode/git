@@ -5,5 +5,3 @@ Git is a distributed version control system.
 Git has a mutable index called stage.
 Git tracks changes of files.
 now get up on github
-Creating a new branch is fast.
-Creating a new branch is quick and simple.
